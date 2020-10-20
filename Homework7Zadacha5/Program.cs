@@ -66,6 +66,7 @@ namespace Homework7Zadacha5
                     break;
             }
             Console.WriteLine($"you chose {day}");
+            Console.ReadKey();
         }
     }
 }
